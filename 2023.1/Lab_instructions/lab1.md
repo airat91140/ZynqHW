@@ -170,21 +170,21 @@ Vivado имеет большое количество встроенных пл�
 
 ## Источники:
 
-www.microzed.org
+https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/microzed/microzed-board-family (только с VPN)
 
-www.picozed.org
+https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/picozed/picozed-board-family (только с VPN)
 
-www.zedboard.org
+https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/zedboard-board-family (только с VPN)
 
-www.xilinx.com/zynq
+https://www.xilinx.com/products/silicon-devices/soc/zynq-7000.html
 
-www.xilinx.com/sdk
+https://www.xilinx.com/products/design-tools/vitis.html
 
-www.xilinx.com/vivado
+https://www.xilinx.com/developer/products/vivado.html
 
-www.xilinx.com/support/documentation/sw_manuals/ug949-vivado-design-methodology.pdf
+https://docs.xilinx.com/r/en-US/ug949-vivado-design-methodology/Introduction
 
-www.xilinx.com/support/documentation/sw_manuals/ug1046-ultrafast-design-methodology-guide.pdf
+https://docs.xilinx.com/v/u/en-US/ug1046-ultrafast-design-methodology-guide
 
 ## Ответы
 

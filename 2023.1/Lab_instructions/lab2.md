@@ -319,6 +319,24 @@
 
 * Как Zynq был проинициализирован в нашем эксперименте?
 
+## Источники:
+
+https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/microzed/microzed-board-family (только с VPN)
+
+https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/picozed/picozed-board-family (только с VPN)
+
+https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/zedboard-board-family (только с VPN)
+
+https://www.xilinx.com/products/silicon-devices/soc/zynq-7000.html
+
+https://www.xilinx.com/products/design-tools/vitis.html
+
+https://www.xilinx.com/developer/products/vivado.html
+
+https://docs.xilinx.com/r/en-US/ug949-vivado-design-methodology/Introduction
+
+https://docs.xilinx.com/v/u/en-US/ug1046-ultrafast-design-methodology-guide
+
 ## Ответы
 
 > Как вы думаете, для чего нужен *EMIO*?
